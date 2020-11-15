@@ -196,7 +196,7 @@
     (descr "SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (attr virtual)
-    (fp_text reference T (at 1.218433 0.100295 218 unlocked) (layer F.SilkS)
+    (fp_text reference T (at 1.218433 0.100295 38 unlocked) (layer F.SilkS)
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_text value "SolderJumper-2 nixieNecklace" (at 0 1.9 128) (layer F.Fab)
